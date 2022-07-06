@@ -1,0 +1,7 @@
+@font-face {
+    font-family: rolachan;
+    src: url('./ROLAchan/ROLAchan-Regular.otf') format("opentype");
+}
+h1{
+    font-family: rolachan;
+}
